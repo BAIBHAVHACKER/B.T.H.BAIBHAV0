@@ -4,6 +4,5 @@
 <html>
 <h6 text-align:center;>Hello my name is Baibhav Tiwari </h6>
 <head>WELLCOME</head>
-
-<video src="/storage/emulated/0/viral_reel_93.mp4" controls />
+  <img src="wp-content/uploads/sun-birds.jpg">
 </html>
