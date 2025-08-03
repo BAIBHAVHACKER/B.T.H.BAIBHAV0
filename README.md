@@ -4,5 +4,5 @@
 <html>
 <h6>Hello my name is Baibhav Tiwari </h6>
 <head>WELLCOME</head>
-  <img src="wp-content/uploads/sun-birds.jpg">
+  <img src="/storage/emulated/0/DCIM/IMG-king.jpg">
 </html>
