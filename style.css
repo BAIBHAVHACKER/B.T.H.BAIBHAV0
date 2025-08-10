@@ -1,0 +1,28 @@
+body {
+    background-image: url('my.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+</head>
+</style>
+<style>
+    .glowing-text {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00de, 0 0 40px #ff00de, 0 0 50px #ff00de;
+    }
+</style>
+
+<div class="glowing-text">B.T.H_HACKER</div>
+
+ 
+<style>
+    .glowing-text {
+        font-size: 24px;
+        font-weight: bold;
+        color: #fff;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00de, 0 0 40px #ff00de, 0 0 50px #ff00de;
+    }
+</style>
